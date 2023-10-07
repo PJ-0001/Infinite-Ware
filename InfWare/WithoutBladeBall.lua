@@ -97,7 +97,7 @@ local MainTab = Window:CreateTab("Humanoid Exploits", nil)
 local MainSection = MainTab:CreateSection("Main")
 local AC = Window:CreateTab("Anti-Cheat Bypasses", nil) -- Title, Image
 local TPTab = Window:CreateTab("Aimbot", nil) -- Title, Image
-local BladeBall = Window:CreateTab("Blade-Ball Cheats", nil) -- Title, Image
+local BladeBall = Window:CreateTab("BladeBall [NOT SUPPORTED]", nil) -- Title, Image
 local ESPTab = Window:CreateTab("ESP", nil) -- Title, Image
 
 
